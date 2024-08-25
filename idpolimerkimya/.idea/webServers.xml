@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b55ee66c-dd3e-476d-86fa-0badeacb8a3d" name="idpolimerkimya" url="http://linux5.yoncu.com">
+        <fileTransfer rootFolder="/public_html" host="linux5.yoncu.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

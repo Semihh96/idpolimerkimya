@@ -1,0 +1,21 @@
+RewriteRule ".well-known/acme-challenge" - [L]
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://idpolimerkimya.com/$1 [R,L]
+
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/$ /$1 [R=301,L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# “ea-php74” paketini varsayılan “PHP” programlama dili olarak ayarlayın.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php74 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

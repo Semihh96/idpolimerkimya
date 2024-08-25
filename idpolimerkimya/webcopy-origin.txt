@@ -1,0 +1,980 @@
+Uri: https://fonts.googleapis.com/css2?family=Epilogue:wght@300;400;500;600;700;900&display=swap
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/epilogue/v13/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiDA.ttf
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\s\epilogue\v13\O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v13/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiDA.ttf
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\s\epilogue\v13\O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v13/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPiDA.ttf
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\s\epilogue\v13\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v13/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPiDA.ttf
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\s\epilogue\v13\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v13/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDA.ttf
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\s\epilogue\v13\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v13/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXmTTiDA.ttf
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\s\epilogue\v13\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXmTTiDA.ttf
+Content Type: font/ttf
+
+Uri: https://html.vecurosoft.com/energiso/demo/about.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\about.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/css/app.min.css
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\css\app.min.css
+Content Type: text/css
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/css/fontawesome.min.css
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/css/style.css
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\css\style.css
+Content Type: text/css
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-duotone-900.eot
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-duotone-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-duotone-900.eot?
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-duotone-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-duotone-900.svg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-duotone-900.svg
+Content Type: image/svg+xml
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-duotone-900.woff
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-duotone-900.woff
+Content Type: font/woff
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-light-300.eot
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-light-300.eot?
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-light-300.svg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-light-300.svg
+Content Type: image/svg+xml
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-light-300.woff
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-light-300.woff
+Content Type: font/woff
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/ab-2-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\ab-2-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/ab-3-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\ab-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/ab-3-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\ab-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/ab-3-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\ab-3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/ab-4-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\ab-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/ab-5-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\ab-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/ab-5-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\ab-5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/ab-6-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\ab-6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/about-1-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\about-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/about-1-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\about-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/about-6-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\about-6-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/about-7-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\about-7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/about-7-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\about-7-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/award-1-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\award-1-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/award-1-2.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\award-1-2.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/award-1-3.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\award-1-3.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/award-1-4.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\award-1-4.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/award-1-5.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\award-1-5.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/award-1-6.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\award-1-6.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/faq-3-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\faq-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/feature-2-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\feature-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/process-1-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\process-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/sign.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\sign.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/sr-d-1-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\sr-d-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/sr-d-1-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\sr-d-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/sr-d-1-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\sr-d-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/subsc-2-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\subsc-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/about/why-choose-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\about\why-choose-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/bg/feature-bg-1-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\bg\feature-bg-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/author-1-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\author-1-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-1-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-1-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-1-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-1-4.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-1-5.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-1-6.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-2-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-2-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-2-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-author.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-author.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-d-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-d-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-d-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-d-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-s-1-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-s-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-s-1-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-s-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-s-1-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-s-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-s-1-4.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-s-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-s-2-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-s-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-s-2-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-s-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-s-2-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-s-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/blog-s-2-4.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\blog-s-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/comment-author-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\comment-author-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/comment-author-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\comment-author-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/comment-author-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\comment-author-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/recent-post-1-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\recent-post-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/recent-post-1-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\recent-post-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/blog/recent-post-1-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\blog\recent-post-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/brand/brand-1-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\brand\brand-1-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/brand/brand-1-2.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\brand\brand-1-2.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/brand/brand-1-3.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\brand\brand-1-3.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/brand/brand-1-4.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\brand\brand-1-4.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/brand/brand-1-5.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\brand\brand-1-5.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/brand/brand-1-6.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\brand\brand-1-6.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/cta/cta-1-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\cta\cta-1-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/favicons/favicon.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\favicons\favicon.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/gallery/gal-2-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\gallery\gal-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/gallery/gal-2-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\gallery\gal-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/gallery/gal-2-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\gallery\gal-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/gallery/gal-2-4.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\gallery\gal-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/gallery/gal-2-5.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\gallery\gal-2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/gallery/gal-2-6.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\gallery\gal-2-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/hero/hero-1-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\hero\hero-1-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/hero/hero-1-2.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\hero\hero-1-2.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/hero/hero-1-4.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\hero\hero-1-4.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/hero/hero-2-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\hero\hero-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/hero/hero-2-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\hero\hero-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/hero/hero-2-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\hero\hero-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/hero/hero-bg-1-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\hero\hero-bg-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/hero/hero-bg-2-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\hero\hero-bg-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/hero/hero-bg-2-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\hero\hero-bg-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/hero/hero-bg-2-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\hero\hero-bg-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/hero/hero-bg-3-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\hero\hero-bg-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/hero/hero-bg-3-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\hero\hero-bg-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/hero/hero-bg-3-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\hero\hero-bg-3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/hero/hero-shape-1-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\hero\hero-shape-1-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/hero/hero-shape-2-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\hero\hero-shape-2-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/fe-2-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\fe-2-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/fe-2-2.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\fe-2-2.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/fe-2-3.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\fe-2-3.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/fe-2-4.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\fe-2-4.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/head-i-3-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\head-i-3-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/head-i-3-2.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\head-i-3-2.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/info-1-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\info-1-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/info-1-2.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\info-1-2.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/price-1-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\price-1-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/price-1-2.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\price-1-2.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/price-1-3.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\price-1-3.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/price-1-4.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\price-1-4.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/quote-icon.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\quote-icon.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/sr-1-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\sr-1-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/sr-1-2.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\sr-1-2.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/sr-1-3.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\sr-1-3.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/sr-1-4.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\sr-1-4.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/sr-1-5.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\sr-1-5.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/sr-2-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\sr-2-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/sr-2-2.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\sr-2-2.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/sr-2-3.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\sr-2-3.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/sr-2-4.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\sr-2-4.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/sr-2-5.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\sr-2-5.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/sr-2-6.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\sr-2-6.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/sr-d-i-1-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\sr-d-i-1-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/t-d-i-1-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\t-d-i-1-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/team-call-1-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\team-call-1-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/why-choose-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\why-choose-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/why-choose-2.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\why-choose-2.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/icon/why-choose-3.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\icon\why-choose-3.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/logo-white.svg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/logo.svg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/package/pack-1-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\package\pack-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/package/pack-1-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\package\pack-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/package/pack-1-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\package\pack-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/package/pack-1-4.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\package\pack-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/package/pack-1-5.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\package\pack-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/p-d-1-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\p-d-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/p-d-1-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\p-d-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-1-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-1-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-1-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-1-4.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-1-5.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-1-6.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-2-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-2-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-2-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-2-4.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-2-5.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-3-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-3-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-3-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-3-4.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-4-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-4-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-4-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-4-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-4-4.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-4-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-4-5.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-4-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-4-6.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-4-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-4-7.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-4-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/project/proj-4-8.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\project\proj-4-8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/service/sr-1-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\service\sr-1-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/service/sr-1-2.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\service\sr-1-2.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/service/sr-1-3.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\service\sr-1-3.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/service/sr-1-4.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\service\sr-1-4.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/service/sr-1-5.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\service\sr-1-5.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/service/sr-2-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\service\sr-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/service/sr-2-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\service\sr-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/service/sr-2-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\service\sr-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/service/sr-2-4.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\service\sr-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/service/sr-3-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\service\sr-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/service/sr-3-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\service\sr-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/service/sr-3-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\service\sr-3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/service/sr-3-4.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\service\sr-3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/service/sr-3-5.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\service\sr-3-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/service/sr-3-6.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\service\sr-3-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/shape/error-1-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\shape\error-1-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/team/t-d-1-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\team\t-d-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/team/team-1-1.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\team\team-1-1.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/team/team-1-2.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\team\team-1-2.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/team/team-1-3.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\team\team-1-3.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/team/team-1-4.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\team\team-1-4.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/team/team-1-5.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\team\team-1-5.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/team/team-1-6.png
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\team\team-1-6.png
+Content Type: image/png
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/testimonial/testi-2-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\testimonial\testi-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/testimonial/testi-2-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\testimonial\testi-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/testimonial/testi-2-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\testimonial\testi-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/widget/gal-1-1.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\widget\gal-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/widget/gal-1-2.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\widget\gal-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/widget/gal-1-3.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\widget\gal-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/widget/gal-1-4.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\widget\gal-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/widget/gal-1-5.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\widget\gal-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/img/widget/gal-1-6.jpg
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\img\widget\gal-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/js/app.min.js
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\js\app.min.js
+Content Type: application/javascript
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/js/layerslider.kreaturamedia.jquery.js
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\js\layerslider.kreaturamedia.jquery.js
+Content Type: application/javascript
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/js/layerslider.transitions.js
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\js\layerslider.transitions.js
+Content Type: application/javascript
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/js/layerslider.utils.js
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\js\layerslider.utils.js
+Content Type: application/javascript
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/js/main.js
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://html.vecurosoft.com/energiso/demo/assets/js/vendor/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\assets\js\vendor\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://html.vecurosoft.com/energiso/demo/award.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\award.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/blog-details-sidebar.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\blog-details-sidebar.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/blog-details.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\blog-details.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/blog-grid.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\blog-grid.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/blog.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\blog.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/contact.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\contact.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/error.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\error.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/index-2.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\index-2.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/index-3.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\index-3.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/index.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\index.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/price-plan.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\price-plan.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/project-2.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\project-2.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/project-details.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\project-details.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/project.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\project.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/service-2.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\service-2.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/service-details.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\service-details.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/service.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\service.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/team-details.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\team-details.html
+Content Type: text/html
+
+Uri: https://html.vecurosoft.com/energiso/demo/team.html
+File Name: C:\Downloaded Web Sites\html.vecurosoft.com\energiso\demo\team.html
+Content Type: text/html
+
